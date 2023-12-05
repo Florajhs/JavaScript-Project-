@@ -1,0 +1,64 @@
+body {
+  background-image: url("https://zahramediagroup.com/wp-content/uploads/2021/09/Blog-september.jpg");
+  background-size: cover;
+}
+
+#textBody {
+  max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    border-radius: 10px;
+  opacity: 90%;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Tahoma";
+  font-weight: 1000;
+  color: #790c5a;
+}
+
+p1 {
+  font-family: "Tahoma";
+  color: #eda1c1;
+}
+
+p2 {
+  font-family: "Tahoma";
+  color: #eda1c1;
+  
+}
+
+p3 {
+  font-family: "Tahoma";
+  color: #14B2F7;
+}
+
+form {
+  text-align: center;
+    background-color: #e6739f;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    width: 300px;
+}
+
+
+#result {
+  font-family: "Tahoma";
+  color: #14B2F7;
+  text-align: center;
+  font-size: 20px;
+}
+
+#guessInput {
+      margin-bottom: 10px;
+     
+}
+
+#guessButton {
+      padding: 10px 20px;
+      cursor: pointer;
+  
+    }
